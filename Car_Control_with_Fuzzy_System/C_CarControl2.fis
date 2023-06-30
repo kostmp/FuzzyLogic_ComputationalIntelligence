@@ -1,5 +1,5 @@
 [System]
-Name='Car_C_final'
+Name='C_CarControl2'
 Type='mamdani'
 Version=2.0
 NumInputs=3
